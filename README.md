@@ -62,7 +62,7 @@ Work & Compensation
 
 Technical expertise
 
-<img width="410" height="231" alt="TECHNICAL EXPERTISE" src="https://github.com/user-attachments/assets/ce4a1076-d65f-4412-93fd-7197687b7010" />
+![tech](https://github.com/user-attachments/assets/f633b725-bedb-41b8-b3de-cd805c3a0f8b)
 
 # KEY FINDINGS & INSIGHT
 
