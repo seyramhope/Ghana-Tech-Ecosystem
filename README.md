@@ -67,3 +67,11 @@ Technical expertise
 # KEY FINDINGS & INSIGHT
 
 ![excutive summary 2](https://github.com/user-attachments/assets/9d68d23f-4d3b-49f4-b7ee-bf001386a693)
+
+![key findings - Copy](https://github.com/user-attachments/assets/3c34d675-d581-41be-9b80-34021da4600a)
+
+# CHALLENGES AND RECOMMENDATIONS
+
+![key findings - Copy (2)](https://github.com/user-attachments/assets/53420115-ac0d-4d47-9109-9d719cb6e1bc)
+
+
