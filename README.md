@@ -54,7 +54,8 @@ Overview
 
 Industry Insight
 
-<img width="412" height="230" alt="INSIGHT" src="https://github.com/user-attachments/assets/6fd88f12-a04f-4e86-8d5d-f2a76c4abf75" />
+![INDUSTRY INSIGHT](https://github.com/user-attachments/assets/a701668f-a068-4ba8-95f4-f78cc17811c5)
+
 
 Work & Compensation
 
