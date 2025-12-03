@@ -8,18 +8,23 @@ This analysis is to highlight and provide insights and decision guides to player
 # PROBLEM STATEMENT 
 Main question - What is the impact of the respondents Age, Gender, Qualification, Experience, Industry, Background, Specialization, Programming Languages on the Employment Status, Work Condition and Salary Range
 Other question: Which industry pays the highest monthly salaries? What is the relation between the qualification and experience of respondents to their salary range? How does gender affect the work condition and employment status? What is the salary spread based on respondent’s specialization?
+
 # ABOUT DATA
 Data Source:The 2024 tech ecosystem survey data was derived from www.daxsome.org
+
 The survey sort to obtain information on various variables and this was broken into columns such as: Age, Gender, Qualification, Experience, Industry, Background, Specialization, Programming Languages, Employment Status, Work Condition and Salary Range.
 
 Data Cleaning
+
 The data from the site had 29 columns. The various columns with null and unrelated information was delated bringing the cleaned data column to 17. The format of the data in each column was examined and properly aligned. Data was loaded into power query for further cleaning. Nulls were identified and replaced accordingly.
 
 # METHODOLOGY
 Tools Used
+
 1.Excel   2.Power Query   3.Power BI
 
 Approach
+
 Data cleaning was done using excel and power query. Formatted data from excel was loaded via power query for further cleaning.
 
 Dashboard: Power BI was used to create interactive dashboards that looked at the data into
