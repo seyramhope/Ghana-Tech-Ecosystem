@@ -54,11 +54,11 @@ Overview
 
 Industry Insight
 
-![INDUSTRY INSIGHT](https://github.com/user-attachments/assets/a701668f-a068-4ba8-95f4-f78cc17811c5)
+![industry](https://github.com/user-attachments/assets/6ffe722f-c030-41e5-bac8-8c3c9be2db54)
 
 Work & Compensation
 
-<img width="412" height="230" alt="WORK N COMPENSATION" src="https://github.com/user-attachments/assets/3e17987c-a43a-44dd-9058-bcae0a7cc2cd" />
+![WORK AND COMP new](https://github.com/user-attachments/assets/48751c7b-b0dd-40c3-8a2b-49683983b55b)
 
 Technical expertise
 
