@@ -46,4 +46,16 @@ Work & Compensation: To appreciate the working condition of the tech ecosystem.
 
 Technical Expertise: To focus on the technical specialization, program language and other tools.
 
-# FINDINGS AND INSIGHTS
+# VISUALIZATION
+
+Overview
+
+<img width="412" height="230" alt="OVERVIEW" src="https://github.com/user-attachments/assets/db379ad4-e091-4bd5-9d6e-0072b9f74a1f" />
+
+
+
+
+
+
+
+
