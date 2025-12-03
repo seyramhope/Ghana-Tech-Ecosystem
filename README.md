@@ -50,12 +50,11 @@ Technical Expertise: To focus on the technical specialization, program language 
 
 Overview
 
-<img width="412" height="230" alt="OVERVIEW" src="https://github.com/user-attachments/assets/db379ad4-e091-4bd5-9d6e-0072b9f74a1f" />
+![OVERVIEW](https://github.com/user-attachments/assets/688c5e5a-f8b3-4a48-87c3-88d500795231)
 
 Industry Insight
 
 ![INDUSTRY INSIGHT](https://github.com/user-attachments/assets/a701668f-a068-4ba8-95f4-f78cc17811c5)
-
 
 Work & Compensation
 
