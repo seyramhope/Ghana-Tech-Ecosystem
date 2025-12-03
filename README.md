@@ -52,10 +52,18 @@ Overview
 
 <img width="412" height="230" alt="OVERVIEW" src="https://github.com/user-attachments/assets/db379ad4-e091-4bd5-9d6e-0072b9f74a1f" />
 
+Industry Insight
 
+<img width="412" height="230" alt="INSIGHT" src="https://github.com/user-attachments/assets/6fd88f12-a04f-4e86-8d5d-f2a76c4abf75" />
 
+Work & Compensation
 
+<img width="412" height="230" alt="WORK N COMPENSATION" src="https://github.com/user-attachments/assets/3e17987c-a43a-44dd-9058-bcae0a7cc2cd" />
 
+Technical expertise
 
+<img width="410" height="231" alt="TECHNICAL EXPERTISE" src="https://github.com/user-attachments/assets/ce4a1076-d65f-4412-93fd-7197687b7010" />
 
+# KEY FINDINGS & INSIGHT
 
+![excutive summary 2](https://github.com/user-attachments/assets/9d68d23f-4d3b-49f4-b7ee-bf001386a693)
